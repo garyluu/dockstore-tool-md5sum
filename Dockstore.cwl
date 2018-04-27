@@ -43,7 +43,7 @@ inputs:
 outputs:
   output_file:
     type: File
-    format: http://edamontology.org/data_3671
+    format: http://edamontology.org/data_9090
     outputBinding:
       glob: md5sum.txt
     doc: A text file that contains a single line that is the md5sum of the input file.
