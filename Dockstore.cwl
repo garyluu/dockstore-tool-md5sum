@@ -34,6 +34,7 @@ hints:
 
 inputs:
   input_file:
+    format: http://edamontology.org/data_8080
     type: File
     inputBinding:
       position: 1
